@@ -73,7 +73,8 @@ Key analyses performed with **Matplotlib**, **Seaborn**, & **Plotly**:
 
 ---
 
-## 🧑‍💻 Author  
-Built with 🌱 and ❤️ by **[PREETHI S]**
+## 🧑‍💻 Done by
+Guru prasad v
+
 
 ---
